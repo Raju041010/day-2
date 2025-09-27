@@ -1,3 +1,2 @@
-git hjfhwejhf 
-rughjwrb 
-hello world git 
+a="hello world"
+print(a)
